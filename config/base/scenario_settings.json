@@ -1,0 +1,66 @@
+{
+	"angel_halo": [
+		"QuestScenario",
+		"DifficultyScenario",
+		"SupportScenario",
+		"PartyScenario",
+		"battle.AttackScenario",
+		"battle.AutoScenario",
+		"result.WaitForResultScenario",
+		"result.BackToQuestScenario",
+		"result.FriendRequestScenario"
+	],
+	"trial": [
+		[
+			"QuestScenario",
+			{
+				"thumbnail": "thumbnail_trial"
+			}
+		],
+		"DifficultyScenario",
+		"SupportScenario",
+		"PartyScenario",
+		"battle.AttackScenario",
+		"battle.AutoScenario",
+		"result.WaitForResultScenario",
+		"result.BackToQuestScenario",
+		"result.FriendRequestScenario"
+	],
+	"daily_hard": [
+		[
+			"QuestScenario",
+			{
+				"thumbnail": "thumbnail_raid",
+				"quest_button": {
+					"name": "btn_select-arrow",
+					"location": "top right"
+				}
+			}
+		],
+		"SupportScenario",
+		"PartyScenario",
+		"battle.PlayScenario",
+		"result.WaitForResultScenario",
+		"result.BackToQuestScenario",
+		"result.FriendRequestScenario"
+	],
+	"upgrade": [
+		"upgrade.AutoSelectScenario",
+		"upgrade.UpgradeScenario",
+		"upgrade.UpgradeAgainScenario"
+	],
+	"leech": [
+		"leech.TweetScenario",
+		[
+			"leech.CheckRaidScenario",
+			{
+				"delay": 500
+			}
+		],
+		"SupportScenario",
+		"PartyScenario",
+		"leech.CheckRaidScenario",
+		"battle.AttackScenario",
+		"leech.WaitForResultScenario"
+	]
+}

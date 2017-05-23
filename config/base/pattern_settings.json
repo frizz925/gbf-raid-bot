@@ -1,0 +1,7 @@
+{
+	"default": [
+		["skill:0,0,3,1", "skill:1,0,1", "skill:2,2,0", "skill:3,2,0", "skill:2,1"],
+		["skill:3,1"],
+		["skill:3,0"]
+	]
+}

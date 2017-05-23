@@ -1,0 +1,26 @@
+{
+	"timeout": {
+		"hours": 1,
+		"minutes": 0,
+		"seconds": 0
+	},
+	"start_delay": 0,
+	"scenario": "angel_halo",
+	"battle": {
+		"element": "dark",
+		"pattern": null,
+		"pattern_recorded": {
+			"name": null,
+			"sync": false,
+			"repeat": true
+		},
+		"summons": []
+	},
+	"leech": {
+		"timeout_seconds": 30,
+		"query": [
+			"Lvl 100 Proto Bahamut", "Lv100 プロトバハムート", 
+			"Lvl 100 Grand Order", "Lv100 ジ・オーダー・グランデ"
+		]
+	}
+}

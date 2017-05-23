@@ -1,0 +1,69 @@
+{
+    "battle": {
+        "commands": {
+            "skill": "skill"
+        }
+    },
+    "debug": {
+        "log": {
+            "enabled": true,
+            "frame_time": false
+        },
+        "scenarios": {
+            "enabled": true
+        },
+        "vision": {
+            "enabled": false,
+            "position": {
+                "x": 600,
+                "y": 0
+            },
+            "processed": false,
+            "regions": {
+                "color": [255, 0, 255],
+                "enabled": true,
+                "features": []
+            }
+        }
+    },
+    "image_processing": {
+        "address_bar": {
+            "region": {
+                "height": 24,
+                "left": 58,
+                "top": 0,
+                "width": 158
+            }
+        },
+        "blur": 5,
+        "character": {
+            "margin": 6,
+            "region": {
+                "height": 148,
+                "left": 12,
+                "top": 492,
+                "width": 76
+            }
+        },
+        "downsample": 1.0,
+        "fps": 5,
+        "skill": {
+            "margin": 30,
+            "region": {
+                "height": 54,
+                "left": 128,
+                "top": 572,
+                "width": 54
+            }
+        },
+        "threshold": 0.7,
+        "window": {
+            "region": {
+                "height": 939,
+                "left": 108,
+                "top": 85,
+                "width": 478
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "btn_attack": "training_sets/buttons/attack.png",
+    "btn_auto": "training_sets/buttons/auto.png",
+    "btn_auto-select": "training_sets/buttons/auto_select.png",
+    "btn_back": "training_sets/buttons/back.png",
+    "btn_ca-auto": "training_sets/buttons/ca-auto.png",
+    "btn_ca-hold": "training_sets/buttons/ca-hold.png",
+    "btn_cancel": [
+        "training_sets/buttons/cancel.png",
+        "training_sets/buttons/cancel-2.png"
+    ],
+    "btn_close": [
+        "training_sets/buttons/close.png",
+        "training_sets/buttons/close-2.png"
+    ],
+    "btn_dialog": "training_sets/buttons/dialog.png",
+    "btn_double-arrow-left": "training_sets/buttons/double_arrow-left.png",
+    "btn_double-arrow-right": "training_sets/buttons/double_arrow-right.png",
+    "btn_event": [
+        "training_sets/buttons/event.png"
+    ],
+    "btn_event-home": "training_sets/buttons/event_home.png",
+    "btn_my-page": "training_sets/buttons/my_page.png",
+    "btn_next": "training_sets/buttons/next.png",
+    "btn_ok": [
+        "training_sets/buttons/ok.png",
+        "training_sets/buttons/ok-2.png",
+        "training_sets/buttons/ok-3.png",
+        "training_sets/buttons/ok-4.png"
+    ],
+    "btn_play": [
+        "training_sets/buttons/play.png",
+        "training_sets/buttons/play-2.png"
+    ],
+    "btn_quests": [
+        "training_sets/buttons/quests.png",
+        "training_sets/buttons/quests-2.png"
+    ],
+    "btn_select": "training_sets/buttons/select.png",
+    "btn_select-arrow": [
+        "training_sets/buttons/select_arrow.png",
+        "training_sets/buttons/select_arrow-2.png",
+        "training_sets/buttons/select_arrow-3.png"
+    ],
+    "btn_skip": "training_sets/buttons/skip.png",
+    "btn_upgrade": "training_sets/buttons/upgrade.png",
+    "btn_upgrade-again": "training_sets/buttons/upgrade-again.png",
+    "btn_use": [
+        "training_sets/buttons/use.png",
+        "training_sets/buttons/use-2.png"
+    ],
+    "icon_dialog": [
+        "training_sets/buttons/dialog.png"
+    ],
+    "icon_element-dark": "training_sets/icons/element-dark.png",
+    "icon_element-earth": "training_sets/icons/element-earth.png",
+    "icon_element-fire": "training_sets/icons/element-fire.png",
+    "icon_element-water": "training_sets/icons/element-water.png",
+    "misc_emp-arrow": "training_sets/misc/emp_arrow.png",
+    "text_skill": "training_sets/text/skill.png",
+    "thumbnail_angel-halo": "training_sets/thumbnails/angel-halo.png",
+    "thumbnail_dimensional-halo": "training_sets/thumbnails/dimensional-halo.png",
+    "thumbnail_loading": "training_sets/thumbnails/loading.png",
+    "thumbnail_max-level": "training_sets/thumbnails/max_level.png",
+    "thumbnail_raid": "training_sets/thumbnails/raid.png",
+    "thumbnail_ready": "training_sets/thumbnails/ready.png",
+    "thumbnail_trial": "training_sets/thumbnails/trial.png",
+    "thumbnail_viramate": "training_sets/thumbnails/viramate.png"
+}
